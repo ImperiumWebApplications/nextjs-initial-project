@@ -1,7 +1,7 @@
 // The page will be served for the url /news
 
-const News = () => {
+const NewsPage = () => {
   return <h1>News page</h1>;
 };
 
-export default News;
+export default NewsPage;
